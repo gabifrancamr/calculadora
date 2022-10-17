@@ -45,7 +45,7 @@ header {
   color: var(--bg-color);
 }
 
-.btn-valor {
+.btn-valor, #limpar, #igual {
   background-color: var(--primary-color);
   border: none;
   border-radius: 0.25rem;
@@ -90,7 +90,7 @@ input {
   border-radius: 0 0.5rem 0.5rem 0;
 }
 
-.copy {
+#copy {
   background-color: transparent;
   border: solid var(--border-color);
   border-width: 2px;
